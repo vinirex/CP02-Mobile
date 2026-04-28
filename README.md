@@ -17,21 +17,21 @@ Um aplicativo móvel desenvolvido em **React Native (Expo)** focado no gerenciam
 
 | Login | Home | Lista de Tarefas |
 |:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/200x400.png?text=Login" alt="Login Screen" width="200"> | <img src="https://via.placeholder.com/200x400.png?text=Home" alt="Home Screen" width="200"> | <img src="https://via.placeholder.com/200x400.png?text=Tarefas" alt="Lista de Tarefas" width="200"> |
+| <img src="https://github.com/user-attachments/assets/974b8392-48f3-4462-97ba-52ca50b65ba7" alt="Login Screen" width="200"> | <img src="https://github.com/user-attachments/assets/3e2df4a8-2f90-43ad-a187-dec26ee32438" alt="Home Screen" width="200"> | <img src="https://github.com/user-attachments/assets/73752abc-5499-4c57-90a4-658f14c68d0f" alt="Lista de Tarefas" width="200"> |
 
 | Detalhes da Tarefa | Criação/Edição | Configurações (Tema) |
 |:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/200x400.png?text=Detalhes" alt="Detalhes Screen" width="200"> | <img src="https://via.placeholder.com/200x400.png?text=Edicao" alt="Edicao Screen" width="200"> | <img src="https://via.placeholder.com/200x400.png?text=Configs" alt="Configs Screen" width="200"> |
+| <img src="https://github.com/user-attachments/assets/cf6da413-1604-47e1-bef5-e595c23c6dd3" alt="Detalhes Tarefa" width="200"> | <img src="https://github.com/user-attachments/assets/13dd2660-5054-40d9-a111-dc8a0fdc7dd1" alt="Edicao Screen" width="200"> | <img src="https://github.com/user-attachments/assets/0f0cd6b7-3d6e-48fc-a708-6df770bfedb8" alt="Configs Screen" width="200"> |
 
 ## 👥 Equipe / Desenvolvedores
 
 Este projeto foi construído pelo grupo:
 
-1. **[Nome do Integrante 1]** - RM: `[000000]`
-2. **[Nome do Integrante 2]** - RM: `[000000]`
-3. **[Nome do Integrante 3]** - RM: `[000000]`
-4. **[Nome do Integrante 4]** - RM: `[000000]`
-5. **[Nome do Integrante 5]** - RM: `[000000]`
+1. **[Vinicius Silva]** - RM: `[553240]`
+2. **[Matheus Zottis]** - RM: `[94119]`
+3. **[Victor Didoff]** - RM: `[552965]`
+4. **[Jonata Rafael]** - RM: `[552939]`
+5. **[Diogo Julio]** - RM: `[553837]`
 
 ## ⚙️ Como executar o projeto
 
